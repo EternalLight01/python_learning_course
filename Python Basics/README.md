@@ -1,0 +1,1 @@
+Familiarize yourself with the basics of the Python language, complete simple tasks, and you will be fully prepared for the test task.
